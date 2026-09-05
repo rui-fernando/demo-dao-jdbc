@@ -1,14 +1,11 @@
-# Arquivos de compilação
+# Arquivos de compilacao
 **/bin/
 **/*.class
 
-# Arquivos de configuração do projeto no Eclipse
+# Arquivos de configuracao do projeto no Eclipse
 **/.classpath
 **/.project
 **/.settings/
 
-# Pasta do workspace do Eclipse
-.metadata/
-
-# Senhas e conexões com banco 
+# Senhas e conexoes com banco 
 **/db.properties
